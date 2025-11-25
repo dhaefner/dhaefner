@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science Student<br>I don't understand my math<br>I'm rewriting a project in python
+I'm a Computer Engineering Student<br>I don't understand my math<br>I'm rewriting a project in python
 
 
 # 💻 Tech Stack:
